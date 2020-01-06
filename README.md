@@ -2,7 +2,7 @@
 Avatar Server for OSU!RIPPLE
 
 ## 2X
-- Python3.6+
+- Python3.6.x+
 - Go
 
 ## Setting Up Avatar-Server
@@ -12,8 +12,8 @@ $ go get -u https://github.com/Uniminin/OSU-AVATAR-SERVER/blob/master/avatar-ser
 $ mkdir avatar-server
 $ mkdir avatar-server/avatars
 $ mv /root/go/bin/avatar-server-go ./avatar-server/avatar-server
-$ wget -O 0.png https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/null.png
-$ wget -O 999.png https://github.com/Uniminin/Ripple-Auto-Installer/blob/master/X/ac.png
+$ wget -O 0.png https://github.com/light-ripple/OSU-AVATAR-SERVER/blob/master/Avatars/-1.png
+$ wget -O 999.png https://github.com/light-ripple/OSU-AVATAR-SERVER/blob/master/Avatars/999.png
 ./avatar-server
 ```
 - For `avatar-server.py`
