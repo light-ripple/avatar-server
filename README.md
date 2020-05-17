@@ -9,5 +9,5 @@ $ python3 -m pip install -r requirements.txt
 $ python3 avatar-server.py
 ```
 
-## License ? :scroll:
+## License :scroll:
 - Check Licence file for more info!
